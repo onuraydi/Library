@@ -1,0 +1,6 @@
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\bin\Debug\Library.Library.Entities.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\bin\Debug\Library.Library.Entities.pdb
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\obj\Debug\Library.Library.Entities.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\obj\Debug\Library.Library.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\obj\Debug\Library.Library.Entities.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.Entities\obj\Debug\Library.Library.Entities.pdb

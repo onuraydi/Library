@@ -1,0 +1,14 @@
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\Library.Library.DataAccess.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\Library.Library.DataAccess.pdb
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\obj\Release\Library.Library.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\obj\Release\Library.Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\obj\Release\Library.Library.DataAccess.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\obj\Release\Library.Library.DataAccess.pdb
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\Library.Library.DataAccess.dll.config
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\Library.Library.Entities.dll
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\Library.Library.Entities.pdb
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\Library\Library.Library.DataAccess\obj\Release\Library..AD6DA94C.Up2Date
